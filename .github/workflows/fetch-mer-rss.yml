@@ -1,0 +1,51 @@
+name: Fetch Mer Blog RSS
+
+on:
+  schedule:
+    - cron: '45 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS
+        run: |
+          curl -s -A "Mozilla/5.0" "https://rss.blog.naver.com/ranto28.xml" -o mer_feed.xml
+          ls -la mer_feed.xml
+          head -50 mer_feed.xml
+
+      - name: Convert to JSON
+        run: |
+          python3 <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json, re
+          from datetime import datetime
+          tree = ET.parse('mer_feed.xml')
+          items = []
+          for item in tree.iter('item'):
+              items.append({
+                  'title': (item.findtext('title') or '').strip(),
+                  'link': (item.findtext('link') or '').strip(),
+                  'pubDate': (item.findtext('pubDate') or '').strip(),
+                  'description': re.sub(r'<[^>]+>', '', item.findtext('description') or '')[:120]
+              })
+              if len(items) >= 5: break
+          with open('mer_feed.json', 'w', encoding='utf-8') as f:
+              json.dump({'updated': datetime.utcnow().isoformat()+'Z', 'items': items}, f, ensure_ascii=False, indent=2)
+          print(f"Done: {len(items)} items")
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mer_feed.json
+          git diff --quiet --cached || git commit -m "🤖 메르 블로그 RSS 업데이트"
+          git push
