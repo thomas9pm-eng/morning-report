@@ -67,3 +67,5 @@ jobs:
           git diff --quiet --cached || git commit -m "🤖 메르 블로그 RSS 업데이트 $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
+
+  
