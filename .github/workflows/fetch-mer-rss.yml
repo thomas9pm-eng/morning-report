@@ -1,4 +1,4 @@
-yamlname: Fetch Mer Blog RSS
+name: Fetch Mer Blog RSS
 
 on:
   schedule:
