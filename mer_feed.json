@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-27T23:47:13.455311Z",
+  "updated": "2026-05-28T23:53:34.470194Z",
   "items": [
+    {
+      "title": "나사의 달기지계획에 숨겨진 Lunar Economy",
+      "link": "https://blog.naver.com/ranto28/224299129931?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 29 May 2026 00:10:00 +0900",
+      "description": "최근 흥미로운 계획발표가 있어서 정리해 봅니다. 1. 2026년 5월 27일, 나사는 달 기지(Moon Base)계획을 발표함. 2. 과거 발표와 달랐던 점은 구체적인 일정과 핵심장비에 대한 업체선정 결과등을 발표한"
+    },
+    {
+      "title": "국민연금 비중조정 결과",
+      "link": "https://blog.naver.com/ranto28/224299298506?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 28 May 2026 19:18:26 +0900",
+      "description": "국민연금 국내주식 비중 목표가 14.9%인데, 주가가 오르다보니 목표를 초과해서 29.7%까지 높아졌다. 조금씩 비중조정을 했으면 이정도까지 가지는 않았을텐데, 어어 하다가 여기까지 올라간 것이다. 국민연금은 중장기"
+    },
+    {
+      "title": "엔비디아 젠슨 황이 꼽는 AI의 다음 격전지 디지털 생물학 A/S",
+      "link": "https://blog.naver.com/ranto28/224298572075?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 28 May 2026 11:10:00 +0900",
+      "description": "엔비디아 젠슨 황이 꼽는 AI의 다음 격전지(.. : 네이버블로그 엔비디아 젠슨 황이 꼽는 AI 다음의 격전지로 디지털생물학을 설명하는 글에 다음 댓글이 하나 보였다. 약간 궁금증이 동물 실험과 같은 임상을 컴퓨팅으"
+    },
     {
       "title": "기니 중국을 건드리나? 2 (feat 보크사이트, 알루미늄)",
       "link": "https://blog.naver.com/ranto28/224298249695?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224298248871?fromRss=true&trackingCode=rss",
       "pubDate": "Wed, 27 May 2026 23:10:00 +0900",
       "description": "중국, 호주에 패배를 선언하다 1(feat 무.. : 네이버블로그 중국과 호주간 무역전쟁 이야기를 한 적이 있다. 전체 줄거리는 위 링크글을 참고하면 될 것 같다. 이번에는 위 글의 요약이후 기니의 보크사이트로 내용"
-    },
-    {
-      "title": "엔비디아 젠슨 황이 꼽는 AI의 다음 격전지(feat 디지털생물학)",
-      "link": "https://blog.naver.com/ranto28/224297585371?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 27 May 2026 11:00:00 +0900",
-      "description": "DNA 데이터 저장장치가 삼성전자와 SK하이닉.. : 네이버블로그 오늘 DNA 데이터 저장장치에 대해서 글을 올렸는데, 보완할 부분이 보여서 추가해 본다. 엔비디아의 젠슨 황은 \"디지털 생물학(Digital Biol"
-    },
-    {
-      "title": "DNA 데이터 저장장치가 삼성전자와 SK하이닉스를 위협할까?",
-      "link": "https://blog.naver.com/ranto28/224296522850?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 27 May 2026 00:10:00 +0900",
-      "description": "항상 최신 기술 개발 상황은 모니터링할 필요가 있다고 생각합니다. 따끈한 신상 기술 하나를 정리해 봅니다. 컴퓨터의 언어는 2진법임. 2. 모든 데이터(사진, 영상, 텍스트)를 0과 1이라는 두 개의 숫자로 변환시켜"
-    },
-    {
-      "title": "그 기업 댓글 다시읽기",
-      "link": "https://blog.naver.com/ranto28/224296458120?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 26 May 2026 08:05:17 +0900",
-      "description": "블로그글에 댓글이 가장 많이 달렸던 기업이 있다. 글 하나당 500개를 넘어가는 것 같다. 대략 아래와 같은 댓글들이었다. A/S 한번 해야될때 안됐소~? ㅋㅋ 당신 글 안믿고 [금양] 추매했더니, 대박 나더이다. "
     }
   ]
 }
