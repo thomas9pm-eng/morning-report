@@ -4,216 +4,409 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>모닝 브리핑 2026-05-29</title>
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
 <style>
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{
-  font-family:'Pretendard Variable','Pretendard',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-  background:#fafaf9;color:#1f2937;font-size:16px;line-height:1.75;
-  padding:24px 16px 48px;
-}
-.wrap{max-width:800px;margin:0 auto}
-header{text-align:center;margin-bottom:32px}
-header h1{font-size:32px;font-weight:800;letter-spacing:-0.5px;margin-bottom:4px}
-header .date{color:#6b7280;font-size:14px}
-.card{
-  background:#ffffff;border:1px solid #e5e7eb;border-radius:14px;
-  padding:32px;margin-bottom:24px;position:relative;overflow:hidden;
-}
-.card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px}
-.card.blue::before{background:#3b82f6}
-.card.orange::before{background:#f97316}
-.card.purple::before{background:#8b5cf6}
-.card.sky::before{background:#0ea5e9}
-.section-title{font-size:22px;font-weight:700;margin-bottom:18px;display:flex;align-items:center;gap:10px}
-.section-title .icon{font-size:22px}
-table{width:100%;border-collapse:collapse;margin-bottom:14px}
-th{text-align:left;font-size:13px;color:#6b7280;font-weight:600;padding:8px 6px;border-bottom:2px solid #e5e7eb;text-transform:uppercase;letter-spacing:0.5px}
-td{padding:10px 6px;border-bottom:1px solid #f3f4f6;font-size:17px;font-variant-numeric:tabular-nums}
-td:nth-child(2),td:nth-child(3){text-align:right;font-size:17px;font-weight:600}
-.up{color:#16a34a}
-.up-bg{background:#dcfce7;color:#16a34a;padding:2px 8px;border-radius:6px;font-size:13px;font-weight:700;display:inline-block}
-.down{color:#dc2626}
-.down-bg{background:#fee2e2;color:#dc2626;padding:2px 8px;border-radius:6px;font-size:13px;font-weight:700;display:inline-block}
-.neutral-bg{background:#f3f4f6;color:#6b7280;padding:2px 8px;border-radius:6px;font-size:13px;font-weight:700;display:inline-block}
-.market-comment{color:#6b7280;font-size:14px;line-height:1.7;margin-top:6px;padding:12px 14px;background:#f9fafb;border-radius:8px;border-left:3px solid #3b82f6}
-.news-item{margin-bottom:20px}
-.news-item:last-child{margin-bottom:0}
-.news-num{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;background:#f97316;color:#fff;border-radius:50%;font-size:13px;font-weight:700;margin-right:8px;flex-shrink:0;vertical-align:middle}
-.news-title{font-size:18px;font-weight:700;line-height:1.5;display:inline}
-.news-summary{font-size:15px;color:#4b5563;line-height:1.8;margin:4px 0 2px 34px}
-.news-meta{font-size:13px;color:#9ca3af;margin-left:34px}
-.cal-item{display:flex;align-items:flex-start;gap:10px;padding:12px 0;border-bottom:1px solid #f3f4f6}
-.cal-item:last-child{border-bottom:none}
-.cal-icon{font-size:18px;flex-shrink:0;margin-top:2px}
-.cal-info{flex:1}
-.cal-name{font-size:16px;font-weight:600}
-.cal-time{font-size:14px;color:#6b7280}
-.cal-pill{display:inline-block;padding:1px 10px;border-radius:20px;font-size:12px;font-weight:600;background:#ede9fe;color:#7c3aed;margin-left:6px;vertical-align:middle}
-.cal-debug{font-size:12px;color:#9ca3af;margin-top:14px;padding-top:10px;border-top:1px dashed #e5e7eb;line-height:1.6}
-.weather-hero{display:flex;align-items:center;gap:24px;margin-bottom:18px;flex-wrap:wrap}
-.weather-temp{font-size:48px;font-weight:800;letter-spacing:-2px;color:#0ea5e9}
-.weather-detail{font-size:15px;line-height:2}
-.weather-detail span{color:#6b7280}
-.weather-comment{font-size:15px;color:#4b5563;padding:12px 14px;background:#f0f9ff;border-radius:8px;border-left:3px solid #0ea5e9;line-height:1.7}
-footer{text-align:center;color:#9ca3af;font-size:13px;margin-top:32px;line-height:1.8}
-@media(max-width:640px){
-  .card{padding:20px}
-  header h1{font-size:26px}
-  .section-title{font-size:19px}
-  td{font-size:15px;padding:8px 4px}
-  td:nth-child(2),td:nth-child(3){font-size:15px}
-  .weather-temp{font-size:40px}
-  .weather-hero{gap:16px}
-  table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
-}
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #fafaf9;
+    color: #1f2937;
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 800px; margin: 0 auto; padding: 40px 20px 60px; }
+  .header { text-align: center; margin-bottom: 40px; }
+  .header h1 { font-size: 32px; font-weight: 700; color: #1f2937; margin-bottom: 6px; }
+  .header .subtitle { font-size: 14px; color: #6b7280; }
+  .card {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 32px;
+    margin-bottom: 24px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+  }
+  .card.blue::before { background: #3b82f6; }
+  .card.orange::before { background: #f97316; }
+  .card.purple::before { background: #8b5cf6; }
+  .card.sky::before { background: #38bdf8; }
+  .section-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title .icon { font-size: 24px; }
+
+  .market-table { width: 100%; border-collapse: collapse; margin-bottom: 16px; }
+  .market-table th {
+    text-align: left;
+    font-size: 13px;
+    font-weight: 600;
+    color: #6b7280;
+    padding: 8px 12px;
+    border-bottom: 2px solid #e5e7eb;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .market-table td {
+    padding: 12px;
+    border-bottom: 1px solid #f3f4f6;
+    font-size: 17px;
+    font-variant-numeric: tabular-nums;
+  }
+  .market-table tr:last-child td { border-bottom: none; }
+  .market-table .name { font-weight: 600; font-size: 15px; }
+  .market-table .value { font-weight: 700; font-size: 18px; }
+  .up { color: #16a34a; }
+  .up-bg { background: #dcfce7; color: #16a34a; padding: 2px 8px; border-radius: 6px; font-size: 14px; font-weight: 600; display: inline-block; }
+  .down { color: #dc2626; }
+  .down-bg { background: #fee2e2; color: #dc2626; padding: 2px 8px; border-radius: 6px; font-size: 14px; font-weight: 600; display: inline-block; }
+  .neutral-bg { background: #f3f4f6; color: #6b7280; padding: 2px 8px; border-radius: 6px; font-size: 14px; font-weight: 600; display: inline-block; }
+  .market-comment {
+    background: #f0f9ff;
+    border-left: 3px solid #3b82f6;
+    padding: 12px 16px;
+    font-size: 15px;
+    color: #1e40af;
+    border-radius: 0 8px 8px 0;
+    line-height: 1.8;
+  }
+
+  .news-item { padding: 16px 0; border-bottom: 1px solid #f3f4f6; }
+  .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .news-item:first-child { padding-top: 0; }
+  .news-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px; height: 26px;
+    background: #fff7ed;
+    color: #ea580c;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 8px;
+    margin-right: 10px;
+    flex-shrink: 0;
+  }
+  .news-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1f2937;
+    line-height: 1.5;
+    display: flex;
+    align-items: flex-start;
+  }
+  .news-summary {
+    font-size: 15px;
+    color: #4b5563;
+    margin-top: 6px;
+    padding-left: 36px;
+    line-height: 1.8;
+  }
+  .news-meta {
+    font-size: 13px;
+    color: #9ca3af;
+    margin-top: 4px;
+    padding-left: 36px;
+  }
+  .news-tag {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 6px;
+    margin-right: 6px;
+  }
+  .tag-ai { background: #ede9fe; color: #7c3aed; }
+  .tag-space { background: #e0f2fe; color: #0284c7; }
+  .tag-tesla { background: #fce7f3; color: #db2777; }
+  .tag-semi { background: #dcfce7; color: #16a34a; }
+  .tag-macro { background: #fef3c7; color: #d97706; }
+
+  .event-item {
+    padding: 14px 16px;
+    background: #faf5ff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .event-item:last-of-type { margin-bottom: 0; }
+  .event-icon { font-size: 20px; flex-shrink: 0; }
+  .event-name { font-weight: 600; font-size: 16px; }
+  .cal-pill {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 10px;
+    border-radius: 20px;
+    background: #e9d5ff;
+    color: #7c3aed;
+    white-space: nowrap;
+  }
+  .debug-calendars {
+    margin-top: 16px;
+    padding: 12px 16px;
+    background: #f9fafb;
+    border-radius: 8px;
+    font-size: 13px;
+    color: #9ca3af;
+    line-height: 1.8;
+  }
+
+  .weather-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    align-items: center;
+  }
+  .weather-main { text-align: center; }
+  .weather-temp {
+    font-size: 48px;
+    font-weight: 700;
+    color: #0ea5e9;
+    line-height: 1.2;
+  }
+  .weather-condition {
+    font-size: 16px;
+    color: #6b7280;
+    margin-top: 4px;
+  }
+  .weather-details { display: flex; flex-direction: column; gap: 10px; }
+  .weather-detail {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 14px;
+    background: #f0f9ff;
+    border-radius: 8px;
+    font-size: 15px;
+  }
+  .weather-detail .label { color: #6b7280; }
+  .weather-detail .val { font-weight: 700; font-variant-numeric: tabular-nums; }
+  .weather-comment {
+    margin-top: 16px;
+    padding: 12px 16px;
+    background: #f0f9ff;
+    border-left: 3px solid #38bdf8;
+    border-radius: 0 8px 8px 0;
+    font-size: 15px;
+    color: #0369a1;
+    line-height: 1.8;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 32px 0 0;
+    font-size: 14px;
+    color: #9ca3af;
+    line-height: 1.8;
+  }
+  .footer .gen-time { font-weight: 600; color: #6b7280; }
+
+  @media (max-width: 640px) {
+    .container { padding: 24px 16px 40px; }
+    .card { padding: 20px; }
+    .header h1 { font-size: 26px; }
+    .section-title { font-size: 19px; }
+    .market-table td { padding: 10px 8px; font-size: 15px; }
+    .market-table .value { font-size: 16px; }
+    .weather-grid { grid-template-columns: 1fr; }
+    .weather-main { margin-bottom: 8px; }
+    .weather-temp { font-size: 42px; }
+    .news-title { font-size: 16px; }
+    .news-summary { font-size: 14px; }
+  }
 </style>
 </head>
 <body>
-<div class="wrap">
+<div class="container">
 
-<header>
-  <h1>모닝 브리핑</h1>
-  <div class="date">2026년 5월 29일 금요일 · 경기도 부천시</div>
-</header>
-
-<!-- ━━━ [1] 글로벌 시장 요약 ━━━ -->
-<div class="card blue">
-  <div class="section-title"><span class="icon">📊</span> 글로벌 시장 요약</div>
-  <table>
-    <thead>
-      <tr><th>지표</th><th>수치</th><th>변동</th></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>S&amp;P 500</td>
-        <td>7,520.36</td>
-        <td><span class="up-bg">▲ +0.02%</span></td>
-      </tr>
-      <tr>
-        <td>나스닥</td>
-        <td>26,674.73</td>
-        <td><span class="up-bg">▲ +0.07%</span></td>
-      </tr>
-      <tr>
-        <td>VIX (변동성)</td>
-        <td>16.29</td>
-        <td><span class="neutral-bg">안정</span></td>
-      </tr>
-      <tr>
-        <td>원유 WTI</td>
-        <td>$90.35 <span style="color:#6b7280;font-size:14px">(₩135,286)</span></td>
-        <td><span class="neutral-bg">보합</span></td>
-      </tr>
-      <tr>
-        <td>비트코인</td>
-        <td>₩114,473,073</td>
-        <td><span class="down-bg">▼ −2.11%</span></td>
-      </tr>
-      <tr>
-        <td>Fear &amp; Greed</td>
-        <td>61</td>
-        <td><span style="background:#fef3c7;color:#d97706;padding:2px 8px;border-radius:6px;font-size:13px;font-weight:700;display:inline-block">탐욕</span></td>
-      </tr>
-      <tr>
-        <td>원/달러 환율</td>
-        <td>₩1,497.35</td>
-        <td><span class="down-bg">▼ −0.49%</span></td>
-      </tr>
-    </tbody>
-  </table>
-  <div class="market-comment">
-    미국 증시는 보합세로 마감했습니다. VIX 16선으로 시장 변동성은 안정적입니다. 유가는 미-이란 긴장 속에 배럴당 $90 중반에서 등락했으며, 비트코인은 약세를 보이고 있습니다. 원/달러 환율은 1,497원대로 원화가 소폭 강세를 나타냈습니다.
-  </div>
-</div>
-
-<!-- ━━━ [2] 핵심 뉴스 TOP 5 ━━━ -->
-<div class="card orange">
-  <div class="section-title"><span class="icon">📰</span> 핵심 뉴스 TOP 5</div>
-
-  <div class="news-item">
-    <span class="news-num">1</span>
-    <div class="news-title">구글, 검색 서비스 25년 만에 대개편 — 제미나이 3.5 공개</div>
-    <div class="news-summary">구글 I/O 2026에서 대화형 AI 중심으로 검색을 전면 재편한다고 발표했습니다. AI 에이전트 기반의 직관적 검색 경험을 제공하며, 젠틀몬스터·와비파커 협업 스마트 글래스도 공개했습니다.</div>
-    <div class="news-meta">출처: Google Blog · 2026.05</div>
+  <div class="header">
+    <h1>📋 모닝 브리핑</h1>
+    <div class="subtitle">2026년 5월 29일 금요일</div>
   </div>
 
-  <div class="news-item">
-    <span class="news-num">2</span>
-    <div class="news-title">스페이스X, 역대 최대 로켓 '스타십 V3' 시험 발사 성공</div>
-    <div class="news-summary">길이 124m의 3세대 스타십이 텍사스 스타베이스에서 12번째 시험 비행에 성공했습니다. 모형 스타링크 위성 22기 사출 후 인도양에 정확히 착수했으며, 다음달 나스닥 IPO(기업가치 $1.75조)가 예정되어 있습니다.</div>
-    <div class="news-meta">출처: 서울신문 · 2026.05.25</div>
-  </div>
-
-  <div class="news-item">
-    <span class="news-num">3</span>
-    <div class="news-title">테슬라, 옵티머스 3세대 휴머노이드 로봇 7~8월 공개 예정</div>
-    <div class="news-summary">3세대 옵티머스는 손가락 제어 정밀도가 2배 향상되어 고난도 조립이 가능하며, 단가를 $2~3만 수준으로 낮춰 물류·제조 시장에 확산할 계획입니다. 오스틴에서는 무인 로보택시 20대 이상이 운영 중입니다.</div>
-    <div class="news-meta">출처: 서울신문 · 2026.05.26</div>
-  </div>
-
-  <div class="news-item">
-    <span class="news-num">4</span>
-    <div class="news-title">AMD, 대만 반도체 생태계에 $100억 투자 — AI 칩 경쟁 가속</div>
-    <div class="news-summary">TSMC의 2나노 공정을 적용한 차세대 CPU '베니스' 생산을 확대합니다. 글로벌 AI 반도체 시장은 연간 1조 달러 매출 시대에 진입하며, 엔비디아도 '루빈' GPU로 시장을 주도하고 있습니다.</div>
-    <div class="news-meta">출처: SPTA Times Korea · 2026.05.22</div>
-  </div>
-
-  <div class="news-item">
-    <span class="news-num">5</span>
-    <div class="news-title">미 연준, 기준금리 3.75% 동결 — 인플레이션 3.3% 지속</div>
-    <div class="news-summary">연준은 세 번째 연속 회의에서 금리를 3.5~3.75% 범위로 유지했습니다. 8-4 투표로 1992년 이후 처음으로 4명이 반대했으며, 인플레이션이 2%를 초과 시 금리 인상 가능성을 열어두고 있습니다.</div>
-    <div class="news-meta">출처: Investing.com · 2026.05</div>
-  </div>
-</div>
-
-<!-- ━━━ [3] 오늘의 일정 ━━━ -->
-<div class="card purple">
-  <div class="section-title"><span class="icon">📅</span> 오늘의 일정</div>
-
-  <div class="cal-item">
-    <span class="cal-icon">📌</span>
-    <div class="cal-info">
-      <div class="cal-name">사전투표 <span class="cal-pill">1.개인</span></div>
-      <div class="cal-time">종일 일정 (5/29 ~ 5/30)</div>
+  <!-- [1] 글로벌 시장 요약 -->
+  <div class="card blue">
+    <div class="section-title">
+      <span class="icon">📈</span> 글로벌 시장 요약
+    </div>
+    <table class="market-table">
+      <thead>
+        <tr>
+          <th>지표</th>
+          <th>현재가</th>
+          <th>변동</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="name">S&amp;P 500</td>
+          <td class="value">7,580.06</td>
+          <td><span class="up-bg">▲ +16.43 (+0.22%)</span></td>
+        </tr>
+        <tr>
+          <td class="name">나스닥</td>
+          <td class="value">26,972.62</td>
+          <td><span class="up-bg">▲ +55.15 (+0.20%)</span></td>
+        </tr>
+        <tr>
+          <td class="name">VIX (변동성)</td>
+          <td class="value">15.32</td>
+          <td><span class="down-bg">▼ −0.42 (−2.67%)</span></td>
+        </tr>
+        <tr>
+          <td class="name">원유 WTI</td>
+          <td class="value">$87.51 <span style="font-size:14px;color:#6b7280;">(≈130,871원)</span></td>
+          <td><span class="down-bg">▼ −1.57%</span></td>
+        </tr>
+        <tr>
+          <td class="name">비트코인</td>
+          <td class="value">₩1억 992만 <span style="font-size:14px;color:#6b7280;">($73,500)</span></td>
+          <td><span class="down-bg">▼ −1.1%</span></td>
+        </tr>
+        <tr>
+          <td class="name">Fear &amp; Greed</td>
+          <td class="value">61 <span style="font-size:14px;color:#16a34a;font-weight:600;">탐욕</span></td>
+          <td><span class="neutral-bg">Greed</span></td>
+        </tr>
+        <tr>
+          <td class="name">원/달러 환율</td>
+          <td class="value">₩1,495.5</td>
+          <td><span class="down-bg">▼ −7.3원</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="market-comment">
+      💬 미 증시는 딜 기대감에 소폭 상승 마감, VIX가 16선을 하회하며 변동성 우려가 완화되었습니다. WTI 원유는 미-이란 예비 합의 보도에 약 2% 하락했습니다.
     </div>
   </div>
 
-  <div class="cal-item">
-    <span class="cal-icon">📌</span>
-    <div class="cal-info">
-      <div class="cal-name">메가주 <span class="cal-pill">3.시월하늘</span></div>
-      <div class="cal-time">종일 일정 (5/29 ~ 5/31)</div>
+  <!-- [2] 핵심 뉴스 TOP 5 -->
+  <div class="card orange">
+    <div class="section-title">
+      <span class="icon">🗞️</span> 핵심 뉴스 TOP 5
+    </div>
+
+    <div class="news-item">
+      <div class="news-title"><span class="news-num">1</span>Tesla-SpaceX, $1,190억 규모 반도체 메가팩토리 'Terafab' 합작 발표</div>
+      <div class="news-summary">
+        <span class="news-tag tag-tesla">테슬라</span><span class="news-tag tag-semi">반도체</span>
+        Tesla, SpaceX, xAI 3사가 텍사스에 AI 칩 전용 팹을 건설하는 합작 법인을 확정했습니다. 6월 3일 그라임스 카운티 세금 감면 공청회가 첫 관문입니다.
+      </div>
+      <div class="news-meta">Basenor · 2026.05</div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-title"><span class="news-num">2</span>Anthropic, Claude Opus 4.8 출시 — Dynamic Workflows 도입</div>
+      <div class="news-summary">
+        <span class="news-tag tag-ai">AI</span>
+        전작 대비 41일 만에 공개된 최신 모델로, 수백 개의 AI 서브에이전트를 병렬 실행하는 Dynamic Workflows 기능이 탑재되었습니다.
+      </div>
+      <div class="news-meta">NeuralBuddies · 2026.05.29</div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-title"><span class="news-num">3</span>SpaceX Starship V3 (Flight 12) 발사 성공, NASA 달 탐사 본궤도</div>
+      <div class="news-summary">
+        <span class="news-tag tag-space">우주</span>
+        역대 가장 크고 강력한 Starship V3가 텍사스에서 발사되어 모의 Starlink 20기를 배치하고 인도양에 성공적으로 착수했습니다. SpaceX IPO(6월 말, $1.75~2조 밸류) 앞두고 기술 신뢰도를 높였습니다.
+      </div>
+      <div class="news-meta">NPR · 2026.05.23</div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-title"><span class="news-num">4</span>Google 검색, Gemini 3.5 Flash로 전면 전환 — 대화형 인터페이스 기본</div>
+      <div class="news-summary">
+        <span class="news-tag tag-ai">AI</span>
+        Google이 글로벌 핵심 검색 엔진을 Gemini 3.5 Flash로 완전 전환하며, 기존 검색창 대신 대화형 인터페이스를 기본 제공합니다.
+      </div>
+      <div class="news-meta">BuildFastWithAI · 2026.05.28</div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-title"><span class="news-num">5</span>글로벌 반도체 시장 $1.29조 전망, 전년 대비 52.8% 성장</div>
+      <div class="news-summary">
+        <span class="news-tag tag-semi">반도체</span><span class="news-tag tag-macro">거시경제</span>
+        IDC 전망에 따르면 2026년 반도체 매출이 $1.29조에 달할 것으로 예상되며, AI 인프라 투자가 시장 성장을 견인하고 있습니다. 다만 마진 압박과 공급 배분 과제가 병존합니다.
+      </div>
+      <div class="news-meta">IDC · 2026</div>
     </div>
   </div>
 
-  <div class="cal-debug">
-    ✅ 확인한 캘린더: 1.개인, 2.유미, 3.시월하늘, 4.가족대소사, 5.투자, 6.취미/자기계발, 7.집안일, 8.DS, 대한민국의 휴일, 가족
-  </div>
-</div>
+  <!-- [3] 오늘의 일정 -->
+  <div class="card purple">
+    <div class="section-title">
+      <span class="icon">📅</span> 오늘의 일정
+    </div>
 
-<!-- ━━━ [4] 오늘의 날씨 ━━━ -->
-<div class="card sky">
-  <div class="section-title"><span class="icon">🌤️</span> 오늘의 날씨 — 경기도 부천시 <span style="font-size:14px;font-weight:400;color:#6b7280">(5월 29일)</span></div>
+    <div class="event-item">
+      <span class="event-icon">📌</span>
+      <span class="event-name">사전투표</span>
+      <span class="cal-pill">🏷️ 1.개인</span>
+    </div>
 
-  <div class="weather-hero">
-    <div class="weather-temp">19°</div>
-    <div class="weather-detail">
-      <div>🌡️ 최고 <strong>28°C</strong> · 최저 <strong>17°C</strong></div>
-      <div>💧 강수확률 <strong>30%</strong></div>
-      <div>☁️ <span>구름많음</span></div>
+    <div class="event-item">
+      <span class="event-icon">📌</span>
+      <span class="event-name">메가주</span>
+      <span class="cal-pill">🏷️ 3.시월하늘</span>
+    </div>
+
+    <div class="debug-calendars">
+      📋 확인한 캘린더: 1.개인, 2.유미, 3.시월하늘, 4.가족대소사, 5.투자, 6.취미/자기계발, 7.집안일, 8.DS, 대한민국의 휴일, 가족
     </div>
   </div>
 
-  <div class="weather-comment">
-    구름이 많은 하루가 예상됩니다. 오후에 소나기 가능성이 있으니 외출 시 우산을 챙기시는 것을 추천합니다. 낮 기온은 28°C까지 오를 수 있어 가벼운 옷차림이 좋겠습니다.
+  <!-- [4] 오늘의 날씨 -->
+  <div class="card sky">
+    <div class="section-title">
+      <span class="icon">🌤️</span> 오늘의 날씨 — 경기도 부천시 <span style="font-size:14px;font-weight:400;color:#6b7280;">2026.05.29</span>
+    </div>
+    <div class="weather-grid">
+      <div class="weather-main">
+        <div class="weather-temp">22°C</div>
+        <div class="weather-condition">대체로 흐림 ☁️</div>
+      </div>
+      <div class="weather-details">
+        <div class="weather-detail">
+          <span class="label">🌡️ 최고 / 최저</span>
+          <span class="val">25°C / 19°C</span>
+        </div>
+        <div class="weather-detail">
+          <span class="label">🌧️ 강수확률</span>
+          <span class="val">0 ~ 1%</span>
+        </div>
+        <div class="weather-detail">
+          <span class="label">💧 습도</span>
+          <span class="val">43%</span>
+        </div>
+        <div class="weather-detail">
+          <span class="label">💨 바람</span>
+          <span class="val">13 km/h</span>
+        </div>
+      </div>
+    </div>
+    <div class="weather-comment">
+      ☂️ 구름이 많지만 비 걱정 없는 하루입니다. 외출하기 좋은 날씨이니 가벼운 겉옷 하나 챙기세요!
+    </div>
   </div>
-</div>
 
-<!-- Footer -->
-<footer>
-  📋 생성: 2026년 05월 29일 (금요일) 08:11 KST
-</footer>
+  <div class="footer">
+    <div class="gen-time">📋 생성: 2026년 05월 29일 (금요일) 08:13 KST</div>
+  </div>
 
 </div>
 </body>
