@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-24T23:48:26.895540Z",
+  "updated": "2026-06-25T23:57:57.230764Z",
   "items": [
     {
-      "title": "SK하이닉스가 7월 10일 나스닥에 상장한다. 어떤 영향이?",
+      "title": "중동에서 시작되는 철도 노선 전쟁 (feat 네타냐후가 바빠진 이유)",
+      "link": "https://blog.naver.com/ranto28/224327635026?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 26 Jun 2026 08:18:09 +0900",
+      "description": "최근 새로운 동향이 보여서 정리해 봅니다. 1. 미국은 인도에서 출발해서 이란을 우회하고 UAE와 사우디, 요르단, 이스라엘을 통해 유럽으로 가는 통로를 만들려고 함. 2. 인도-중동-유럽 경제회랑인 IMEC임. 3"
+    },
+    {
+      "title": "PCE 4.1%에도 케빈 워시가 금리 인하를 할 수 있는 방법이",
+      "link": "https://blog.naver.com/ranto28/224327359398?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 26 Jun 2026 00:10:00 +0900",
+      "description": "오늘 PCE가 4.1%, 근원 PCE가 3.4%가 나왔다. PCE는 3.8%에서 4.1%로 올랐고, 근원 PCE는 3.3%에서 3.4%로 오른 것이다. 3년만에 가장 높은 수준이다. 이런 상황에서 케빈 워시가 금리 "
+    },
+    {
+      "title": "SK하이닉스가 7월 10일 나스닥에 상장(ADR)한다. 어떤 영향이?",
       "link": "https://blog.naver.com/ranto28/224326515853?fromRss=true&trackingCode=rss",
       "pubDate": "Thu, 25 Jun 2026 07:30:00 +0900",
       "description": "SK하이닉스는 나스닥에 ADR방식으로 상장하는게 결정되었다. SK하이닉스는 2026년3월 미국 증권위원회(SEC)에 비공개로 공모 신청서를 제출했다. 2026년 6월 24일에 이사회를 열어서 나스닥 상장을 위한 AD"
@@ -18,18 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224325319296?fromRss=true&trackingCode=rss",
       "pubDate": "Wed, 24 Jun 2026 07:39:12 +0900",
       "description": "MSCI(Morgan Stanley Capital International)는 모건스탠리 계열의 글로벌 지수 산출기관이다. MSCI는 전 세계 증시를 선진국시장(DM)·신흥국시장(EM)·프런티어시장(FM)으로 분류하"
-    },
-    {
-      "title": "23일 국장은 왜 빠졌을까? 24일은?",
-      "link": "https://blog.naver.com/ranto28/224324723728?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 24 Jun 2026 00:10:00 +0900",
-      "description": "다른 글을 써놨지만, 눈에 안들어 오는 분들이 많을 것 같아서, 국장 이야기를 해 봅니다. 스페이스X를 공모가에 못샀다면 언제쯤 사는게 .. : 네이버블로그 위 글에서 스페이스X를 수급 시각으로 봤었다. 주가는 다양"
-    },
-    {
-      "title": "트럼프, 새로운 행정명령에 서명하다. (feat 양자내성암호,양자컴)",
-      "link": "https://blog.naver.com/ranto28/224324165623?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 23 Jun 2026 07:46:15 +0900",
-      "description": "양자암호 및 양자컴퓨터에 대한 행정명령 서명이 오늘 새벽에 있어서 내용을 정리해 봅니다. 미국과 중국은 양자암호통신에서 다른 전략으로 경쟁하고 있다. 중국은 QKD(양자 키 분배,Quantum Key Distribu"
     }
   ]
 }
