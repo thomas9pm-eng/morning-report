@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-20T03:18:44.117634Z",
+  "updated": "2026-07-20T23:39:46.856032Z",
   "items": [
+    {
+      "title": "홍해까지 문제가 생기나? A/S (feat 문제가 생길듯)",
+      "link": "https://blog.naver.com/ranto28/224352751154?fromRss=true&trackingCode=rss",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 +0900",
+      "description": "호르무즈해협에 이어서 홍해까지 막히나? : 네이버 블로그 7월 16일, 후티반군이 홍해를 막을 가능성을 위 글에서 이야기 했습니다. 후티반군이 홍해를 막겠다는 발표가 나와서, 위 글을 간단히(?) 요약(1~35번)하"
+    },
+    {
+      "title": "삼성전자의 SK하이닉스의 신상 CXL 이야기",
+      "link": "https://blog.naver.com/ranto28/224351546006?fromRss=true&trackingCode=rss",
+      "pubDate": "Tue, 21 Jul 2026 00:10:00 +0900",
+      "description": "CXL이 최근 언급되고 있어서 정리해 봅니다. CPU 하나에 꽂을 수 있는 D램 슬롯수는 정해져 있음. 2. 메인보드를 오가는 전용도로 개수가 고정되어 있는 것임. 3. CXL(Compute Express Link)"
+    },
     {
       "title": "이번주에 봐야할 가장 중요한 일정은?",
       "link": "https://blog.naver.com/ranto28/224351624413?fromRss=true&trackingCode=rss",
@@ -18,18 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224350725486?fromRss=true&trackingCode=rss",
       "pubDate": "Sun, 19 Jul 2026 07:30:00 +0900",
       "description": "트럼프가 설립하고, 지분 41%를 보유한 TMTG의 소셜미디어 '트루스소셜'에서 'Truth API'라는 서비스를 출시한다고 발표했다. TMTG는 트럼프 미디어 & 테크놀로지 그룹(Trump Media & Techn"
-    },
-    {
-      "title": "한화 필리조선소가 미국 MRIV(미사일시험계측선)를 수주한 의미",
-      "link": "https://blog.naver.com/ranto28/224350379831?fromRss=true&trackingCode=rss",
-      "pubDate": "Sun, 19 Jul 2026 00:10:00 +0900",
-      "description": "한화 필리 조선소가 미국 미사일방어청(MDA)의 해상 미사일 시험 계측선(MRIV) 건조 사업을 수주했다고 17일(현지시간) 발표했다. \"미국 선박 건조 관리 전문 기업 토트 서비스와 함께 미국 MDA의 MRIV 건"
-    },
-    {
-      "title": "'키미 모먼트'가 미국 기술주들을 흔드는 이유 (feat 월요일 국장은?)",
-      "link": "https://blog.naver.com/ranto28/224349989423?fromRss=true&trackingCode=rss",
-      "pubDate": "Sat, 18 Jul 2026 08:06:54 +0900",
-      "description": "2025년 1월 딥시크가 R1을 내놨을 때 'AI에는 막대한 지출과 그에 맞는 칩 주문이 필요하다'는 가정이 깨졌다. 2025년 1월 이전까지 AI업계의 상식은 다음과 같았다. \"Chat GPT 같은 최상급 AI를 "
     }
   ]
 }
