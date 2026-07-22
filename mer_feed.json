@@ -1,11 +1,23 @@
 {
-  "updated": "2026-07-21T23:40:27.404330Z",
+  "updated": "2026-07-22T23:40:39.646468Z",
   "items": [
+    {
+      "title": "이번주의 가장 중요한 일정은? A/S (feat 구글 분기실적 발표)",
+      "link": "https://blog.naver.com/ranto28/224355055064?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 23 Jul 2026 07:12:39 +0900",
+      "description": "이번주에 봐야할 가장 중요한 일정은? : 네이버 블로그 이번주에는 알파벳(구글)의 2026년 2분기 실적발표를 주의해서 보자고 이야기 했습니다. 오늘 발표가 나와서 정리해 봅니다. 기존 배경 필요없이 변경된 부분만 "
+    },
+    {
+      "title": "대통령의 분당 아파트 매매내용 뜯어보기",
+      "link": "https://blog.naver.com/ranto28/224354420630?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 23 Jul 2026 00:10:00 +0900",
+      "description": "대통령의 아파트 매매가 이슈가 되고 있습니다. 부동산과 경제적 시각으로, 추정은 최소화하고, 팩트 위주로만 정리해 봅니다. 사실과 다른 부분이 있으면 댓글로 알려주시면 감사하겠습니다. 분당구 수내동 양지마을 금호1단"
+    },
     {
       "title": "쿠팡 인천 석남동 물류센터 화재, 피해보상 전쟁이 시작되나?",
       "link": "https://blog.naver.com/ranto28/224353910148?fromRss=true&trackingCode=rss",
       "pubDate": "Wed, 22 Jul 2026 07:30:00 +0900",
-      "description": "쿠팡의 인천 석남동 물류센터 화재가 61시간만에 큰 불이 잡혔습니다. 방화셔터까지 녹았다고 하니, 피해가 클 것 같습니다. 다른 시각으로 불 수 있는 지점이 있어서, 상황을 정리해 봅니다. 2021년, 경기도 이천의"
+      "description": "쿠팡의 인천 석남동 물류센터 화재가 61시간만에 큰 불이 잡혔습니다. 방화셔터까지 녹았다고 하니, 피해가 클 것 같습니다. 다른 시각으로 볼 수 있는 지점이 있어서, 상황을 정리해 봅니다. 2021년, 경기도 이천의"
     },
     {
       "title": "인보사 떡밥이 부활하나? A/S (feat 코오롱티슈진, 결과발표)",
@@ -18,18 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224352751154?fromRss=true&trackingCode=rss",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 +0900",
       "description": "호르무즈해협에 이어서 홍해까지 막히나? : 네이버 블로그 7월 16일, 후티반군이 홍해를 막을 가능성을 위 글에서 이야기 했습니다. 후티반군이 홍해를 막겠다는 발표가 나와서, 위 글을 간단히(?) 요약(1~35번)하"
-    },
-    {
-      "title": "삼성전자와 SK하이닉스가준비하는 CXL이 뭘까?",
-      "link": "https://blog.naver.com/ranto28/224351546006?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 21 Jul 2026 00:10:00 +0900",
-      "description": "CXL이 최근 언급되고 있어서 정리해 봅니다. CPU 하나에 꽂을 수 있는 D램 슬롯수는 정해져 있음. 2. 메인보드를 오가는 전용도로 개수가 고정되어 있는 것임. 3. CXL(Compute Express Link)"
-    },
-    {
-      "title": "이번주에 봐야할 가장 중요한 일정은?",
-      "link": "https://blog.naver.com/ranto28/224351624413?fromRss=true&trackingCode=rss",
-      "pubDate": "Mon, 20 Jul 2026 11:10:00 +0900",
-      "description": "이번주에 가장 중요한 일정은 22일 미장 마감후 발표되는 알파벳(구글)의 2026년 2분기 실적발표로 보인다. 실적발표지만, 봐야할 부분은 알파벳의 CAPEX(설비투자)계획이다. 시장은 \"하이퍼스케일러들이 현재 수준"
     }
   ]
 }
