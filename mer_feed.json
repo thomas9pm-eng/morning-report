@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-06T00:13:04.851038Z",
+  "updated": "2026-09-07T00:20:35.896530Z",
   "items": [
     {
-      "title": "주말도 끝나가는 일요일에는 뭐 먹지?",
+      "title": "2026년 한국형 ISA 역주행 상황 A/S",
+      "link": "https://blog.naver.com/ranto28/224402375244?fromRss=true&trackingCode=rss",
+      "pubDate": "Mon, 07 Sep 2026 07:10:00 +0900",
+      "description": "2026년 한국형 ISA의 역주행 상황 : 네이버 블로그 2026년 8월초, ISA 개정안이 온것을 검토해서, \"2026년 한국형 ISA의 역주행 상황\"이라는 위 글을 블로그에 올렸다. 변동이 있어서 마무리하는 차원"
+    },
+    {
+      "title": "제약사의 문제많던 공시가 조금 더 투명해지나?",
+      "link": "https://blog.naver.com/ranto28/224402787474?fromRss=true&trackingCode=rss",
+      "pubDate": "Mon, 07 Sep 2026 00:10:00 +0900",
+      "description": "변화가 보여서 정리해 봅니다. 1. 제약사의 신약과 관련된 공시는 크게 두가지 문제가 있었음. 2. 진행이 잘 되면 공시가 계속 나오는데, 실패를 하면 어느새 '파이프라인(개발중인 신약후보 목록)'에서 슬그머니 사라"
+    },
+    {
+      "title": "주말에는 뭐 먹지? (feat 엔가와,엔삐라)",
       "link": "https://blog.naver.com/ranto28/224402349035?fromRss=true&trackingCode=rss",
       "pubDate": "Sun, 06 Sep 2026 07:11:44 +0900",
       "description": "주말은 금요일이나 토요일이 제일 좋은 것 같다. 일요일은 별로다. 다음날이 월요일이기 때문이다. 일요일에는 마트를 가는 경우가 많다. 집근처 홈플러스는 문을 닫았고, 이마트도 안간지 꽤 된 것 같다. 쿠팡으로 거의 "
@@ -18,18 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224401533187?fromRss=true&trackingCode=rss",
       "pubDate": "Sat, 05 Sep 2026 11:00:00 +0900",
       "description": "1. 최근 한국에서 코로나 입원환자가 빠르게 늘어나고 있음. 2. 7월말에는 입원환자가 23명이었는데, 2주전에는 61명으로 늘어났고, 1주전(8월 23~29일)에는 109명으로 늘어남. 3. 109명은 전체 코로나"
-    },
-    {
-      "title": "9월 3일 오후 2시의 비밀 (feat 국장, 수익률 149,500%)",
-      "link": "https://blog.naver.com/ranto28/224401025776?fromRss=true&trackingCode=rss",
-      "pubDate": "Sat, 05 Sep 2026 00:10:00 +0900",
-      "description": "불금이라 팩트가 아니라 구조를 공부하는 소설입니다. 1. 9월 3일(목요일), 코스피에서는 이상한 일이 일어남. 2. 오전부터 잘 오르던 지수가 오후 2시를 넘기자마자 10분 만에 무너졌다가, 2시 30분 경에 원래"
-    },
-    {
-      "title": "경영권 전쟁 본게임이 시작되나? (feat 대한항공 vs 호반)",
-      "link": "https://blog.naver.com/ranto28/224400415287?fromRss=true&trackingCode=rss",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
-      "description": "해저케이블 전쟁 (feat LS전선, 대한전선.. : 네이버블로그 2025년 7월 해저케이블 전쟁에 대해서 언급한 적이 있습니다. 해당 내용을 업데이트하고, 최근 새롭게 진행되는 경영권 분쟁을 정리해 봅니다. 65번"
     }
   ]
 }
