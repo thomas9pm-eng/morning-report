@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-16T00:48:41.266264Z",
+  "updated": "2026-09-17T00:53:03.625677Z",
   "items": [
+    {
+      "title": "미국 연준이 기준금리를 인상했다. 그런데, 이게 끝이 아니다.",
+      "link": "https://blog.naver.com/ranto28/224414401619?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 17 Sep 2026 04:08:57 +0900",
+      "description": "2026년 9월 17일, 새벽 3시, FOMC.. : 네이버블로그 위에 링크한 기자회견 관전포인트를 먼저 읽고 읽으면 이해가 쉬울수 있습니다. 미국 연준이 기준금리를 0.25%p 인상했다. 금리를 인상한 이유는 \"예"
+    },
+    {
+      "title": "2026년 9월 17일, 새벽 3시, FOMC와 워시 기자회견 관전포인트",
+      "link": "https://blog.naver.com/ranto28/224413592982?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 17 Sep 2026 00:10:00 +0900",
+      "description": "한국시간으로 2026년 9월 17일 새벽 3시에 FOMC 결과와 점도표가 나오고, 새벽 3시 30분에 워시의 기자회견이 진행된다. 이번 발표의 관전포인트가 뭔지 알아보자. 시장은 이번 FOMC에서 0.25%p의 금리"
+    },
+    {
+      "title": "네이버 블로그 이웃 40만명의 비밀",
+      "link": "https://blog.naver.com/ranto28/224413852454?fromRss=true&trackingCode=rss",
+      "pubDate": "Wed, 16 Sep 2026 17:20:00 +0900",
+      "description": "2026년 9월 16일, 블로그 이웃 40만명이 되었다. 네이버 블로그에 공개글을 쓰기 시작한 것은 2022년 3월 26일 이었다. 2022년 3월26일부터 거의 매일 글을 올렸지만, 처음 블로그 이웃이 생긴 것은 "
+    },
     {
       "title": "클라리티 법안 표결결과가 나왔다. 변수가 있다면?",
       "link": "https://blog.naver.com/ranto28/224413251320?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224412958088?fromRss=true&trackingCode=rss",
       "pubDate": "Wed, 16 Sep 2026 00:10:00 +0900",
       "description": "뜬금없이 이스라엘과 터키가 전쟁설이 나오는데, 가능성이 높지는 않지만, 배경은 알아봅니다. 1. 2025년 1월, 네타냐후의 지시로 안보전략과 국방예산을 검토하는 나겔 위원회(Nagel Committee)가 구성됨."
-    },
-    {
-      "title": "미국국채 10년물이 드디어 5%를 찍었다.",
-      "link": "https://blog.naver.com/ranto28/224412030235?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 15 Sep 2026 07:12:04 +0900",
-      "description": "미국국채 10년물이 5.01%를 찍었다. 5.01%를 찍은 뒤 4.94%까지 내려갔다가, 4.996%까지 다시 올라온 상태다. 9월2일, \"미국국채를 사야하는 타이밍이 오는가?\" 라는 글을 올렸다. 주절주절...미국"
-    },
-    {
-      "title": "사우디 동서횡단 송유관 폭파의 비밀",
-      "link": "https://blog.naver.com/ranto28/224411023780?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 15 Sep 2026 00:10:00 +0900",
-      "description": "여파가 있을듯해서 정리해 봅니다. 1. 1980년대 이란-이라크 전쟁 당시, 이란이 살포한 기뢰에 호르무즈해협을 통과하는 선박이 공격당하는 일이 발생함. 2. 사우디아라비아는 호르무즈해협이 아니라 홍해로 나가는 동서"
-    },
-    {
-      "title": "엔트로픽 CEO가 AI 속도조절을 언급한 이유(feat 허깅페이스 사건)",
-      "link": "https://blog.naver.com/ranto28/224410744840?fromRss=true&trackingCode=rss",
-      "pubDate": "Mon, 14 Sep 2026 07:10:00 +0900",
-      "description": "2026년 9월 13일(한국시간), 아모데이 앤트로픽 CEO가 \"AI 모델의 성능향상 속도를 늦춰야 한다\"는 글을 개인사이트에 올렸다. 기술 개발을 멈추자는 뜻은 아니고, \"안전장치등이 모델 능력을 따라잡을 시간을 "
     }
   ]
 }
