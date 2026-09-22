@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-21T00:30:00.062855Z",
+  "updated": "2026-09-22T01:10:29.275943Z",
   "items": [
+    {
+      "title": "추석전후, 삼성전자와 SK하이닉스 체크포인트",
+      "link": "https://blog.naver.com/ranto28/224419329394?fromRss=true&trackingCode=rss",
+      "pubDate": "Tue, 22 Sep 2026 07:10:00 +0900",
+      "description": "9월 30일은 삼성전자의 특별배당을 받는 주주를 확정하는 '배당기준일'이다. 삼성전자는 3분기에 30조원의 현금배당을 예고했는데, 기존 분기배당(2.45조원)을 빼면, 27.5조원이 특별배당으로 예상된다. 주당 배당"
+    },
+    {
+      "title": "나이키 몰락의 비밀",
+      "link": "https://blog.naver.com/ranto28/224418658099?fromRss=true&trackingCode=rss",
+      "pubDate": "Tue, 22 Sep 2026 00:10:00 +0900",
+      "description": "나이키가 S&P100에서 퇴출되어, 상황을 정리해 봅니다. 1. 2026년 9월 21일, 나이키는 S&P 100에서 18년만에 퇴출됨. 2. 나이키등이 빠진 자리는 델, 샌디스크등이 채웠음. 3. 나이키가 S&P 1"
+    },
+    {
+      "title": "네이버, 쿠팡 새벽배송에 도전하나?",
+      "link": "https://blog.naver.com/ranto28/224418264124?fromRss=true&trackingCode=rss",
+      "pubDate": "Mon, 21 Sep 2026 11:00:00 +0900",
+      "description": "1. 지금까지 네이버는 '상품 기준'으로 새벽배송 여부가 갈렸음. 2. 새벽배송 조건을 충족하는 상품을 구매하면, 회원이든 아니든 누구나 새벽배송을 받는 방식이었음. 3. 11월부터 네이버 새벽배송을 네이버플러스 회"
+    },
     {
       "title": "연준 금리인하 떡밥은 완전히 소멸했을까?",
       "link": "https://blog.naver.com/ranto28/224417669671?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224417472652?fromRss=true&trackingCode=rss",
       "pubDate": "Sun, 20 Sep 2026 07:10:00 +0900",
       "description": "2026년 9월 18일 오전 8시 57분, 북항 친수공원 수로에 살아있는 상어가 있다는 행인 신고가 해경에 접수되었다. 부산역 앞 북항 친수공원 인공수로에 몸길이 3m가 넘는 상어가 나타났다는 신고였다. 상어는 몸길"
-    },
-    {
-      "title": "중국 AI기업들이 사고를 쳤다. 엔트로픽 증류사건",
-      "link": "https://blog.naver.com/ranto28/224416965441?fromRss=true&trackingCode=rss",
-      "pubDate": "Sun, 20 Sep 2026 00:10:00 +0900",
-      "description": "2026년 9월 10일, 엔트로픽이 인텔리전스 보고서를 공개했다. 중국 AI랩( 알리바바(Qwen), 문샷(Kimi), 딥시크등)들이 앤트로픽에 대규모로 불법 증류 공격을 했다는 것이다. 증류는 고성능 AI모델에서 "
-    },
-    {
-      "title": "주말에 주절주절하는 서울 소공동 추억의 3대 맛집",
-      "link": "https://blog.naver.com/ranto28/224416753658?fromRss=true&trackingCode=rss",
-      "pubDate": "Sat, 19 Sep 2026 10:00:00 +0900",
-      "description": "사원시절에 근무를 한 곳은 서울 중구 소공동이었다. 당시 회사 규정은 \"7시에 출근하고 4시에 퇴근한다\"라는 74제였지만, 우리들은 이것을 '세븐일레븐'으로 불렀다. 출근은 7시인데 퇴근은 11시를 넘기는 일이 많았"
-    },
-    {
-      "title": "엔캐리 트레이드 청산 가능성이 높아지나? 주요 지표가 변했다.",
-      "link": "https://blog.naver.com/ranto28/224416673104?fromRss=true&trackingCode=rss",
-      "pubDate": "Sat, 19 Sep 2026 07:00:00 +0900",
-      "description": "이론적인 설명이 있어서, 다소 딱딱할 수 있습니다. 1. 캐리 투 리스크 비율(carry-to-risk ratio)이라는 지표가 있음. 2. 지금 시장이 \"캐리 트레이드를 하기 좋은 상황이냐\"를 알려주는 지표임. 3"
     }
   ]
 }
