@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-23T00:56:51.819529Z",
+  "updated": "2026-09-24T00:53:11.766170Z",
   "items": [
+    {
+      "title": "미국 10년물 국채금리가 5.1%를 찍었다.",
+      "link": "https://blog.naver.com/ranto28/224421516189?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 24 Sep 2026 07:20:00 +0900",
+      "description": "미국국채 10년물이 5.1%를 찍었다. 하루만에 4.94%에서 5.1%로 16bp가 올랐고, 2007년 7월이후 19년중 가장 높은 금리가 된 것이다. 시작은 트럼프의 입이었다. 9월 23일(한국시간) 트럼프는 즉흥"
+    },
+    {
+      "title": "메타 뮤즈가 요즘 화제인데, 이유가 뭐고 영향은?",
+      "link": "https://blog.naver.com/ranto28/224421039479?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 24 Sep 2026 00:10:00 +0900",
+      "description": "메타 뮤즈가 이슈가 되고 있어서, 내용과 영향을 정리해 봅니다. 1. 2026년 9월 8일, 메타는 AI모델 Muse Spark를 활용한 개인 AI 에이전트 앱 Muse를 출시함. 2. 자동차로 보면, Muse Sp"
+    },
     {
       "title": "한국 대미투자 패키지 A/S",
       "link": "https://blog.naver.com/ranto28/224420531706?fromRss=true&trackingCode=rss",
@@ -18,18 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224419329394?fromRss=true&trackingCode=rss",
       "pubDate": "Tue, 22 Sep 2026 07:10:00 +0900",
       "description": "9월 30일은 삼성전자의 특별배당을 받는 주주를 확정하는 '배당기준일'이다. 삼성전자는 3분기에 30조원의 현금배당을 예고했는데, 기존 분기배당(2.45조원)을 빼면, 27.5조원이 특별배당으로 예상된다. 주당 배당"
-    },
-    {
-      "title": "나이키 몰락의 비밀",
-      "link": "https://blog.naver.com/ranto28/224418658099?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 22 Sep 2026 00:10:00 +0900",
-      "description": "나이키가 S&P100에서 퇴출되어, 상황을 정리해 봅니다. 1. 2026년 9월 21일, 나이키는 S&P 100에서 18년만에 퇴출됨. 2. 나이키등이 빠진 자리는 델, 샌디스크등이 채웠음. 3. 나이키가 S&P 1"
-    },
-    {
-      "title": "네이버, 쿠팡 새벽배송에 도전하나?",
-      "link": "https://blog.naver.com/ranto28/224418264124?fromRss=true&trackingCode=rss",
-      "pubDate": "Mon, 21 Sep 2026 11:00:00 +0900",
-      "description": "1. 지금까지 네이버는 '상품 기준'으로 새벽배송 여부가 갈렸음. 2. 새벽배송 조건을 충족하는 상품을 구매하면, 회원이든 아니든 누구나 새벽배송을 받는 방식이었음. 3. 11월부터 네이버 새벽배송을 네이버플러스 회"
     }
   ]
 }
