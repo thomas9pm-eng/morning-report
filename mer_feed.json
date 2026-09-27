@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-26T00:53:33.384040Z",
+  "updated": "2026-09-27T00:52:28.305391Z",
   "items": [
+    {
+      "title": "오픈AI 허깅페이스 사건 A/S",
+      "link": "https://blog.naver.com/ranto28/224423584111?fromRss=true&trackingCode=rss",
+      "pubDate": "Sun, 27 Sep 2026 07:16:04 +0900",
+      "description": "새로운 내용이 추가공개 되어서 오픈AI-허깅페이스 사건'을 A/S합니다. 보라색 부분은 기존글입니다. OpenAI는 AI를 샌드박스라는 격리 공간에 넣어, 인터넷도 못 쓰고 서로 대화도 못 하게 막아둔 채, \"이 과"
+    },
+    {
+      "title": "일이 커질 것 같은 농지조사 근황 A/S",
+      "link": "https://blog.naver.com/ranto28/224423093827?fromRss=true&trackingCode=rss",
+      "pubDate": "Sun, 27 Sep 2026 00:10:00 +0900",
+      "description": "https://m.blog.naver.com/ranto28/224409421013 사람들의 관심이 별로 없던 9월초, “일이 커질 것 같은 농지조사 근황“이라는 글을 썼다. 일이 커질 것 같은 느낌 그대로 꽤 큰 이"
+    },
     {
       "title": "주절주절...첫 차 이야기등",
       "link": "https://blog.naver.com/ranto28/224422887860?fromRss=true&trackingCode=rss",
@@ -18,18 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224421943293?fromRss=true&trackingCode=rss",
       "pubDate": "Fri, 25 Sep 2026 00:10:00 +0900",
       "description": "명절 연휴라 가벼운 내용입니다. 1. 1959년 2월 15일, PAP(인민행동당)는 당시 집권당인 싱가포르인민연합(SPA)이 미국 은행에서 50만 달러를 받았다고 폭로함. 2. 이 돈이 교육부 장관 개인 계좌로 들어"
-    },
-    {
-      "title": "미국 10년물 국채금리가 5.1%를 찍었다.",
-      "link": "https://blog.naver.com/ranto28/224421516189?fromRss=true&trackingCode=rss",
-      "pubDate": "Thu, 24 Sep 2026 07:20:00 +0900",
-      "description": "미국국채 10년물이 5.1%를 찍었다. 하루만에 4.94%에서 5.1%로 16bp가 올랐고, 2007년 7월이후 19년중 가장 높은 금리가 된 것이다. 시작은 트럼프의 입이었다. 9월 23일(한국시간) 트럼프는 즉흥"
-    },
-    {
-      "title": "메타 뮤즈가 요즘 화제인데, 이유가 뭐고 영향은?",
-      "link": "https://blog.naver.com/ranto28/224421039479?fromRss=true&trackingCode=rss",
-      "pubDate": "Thu, 24 Sep 2026 00:10:00 +0900",
-      "description": "메타 뮤즈가 이슈가 되고 있어서, 내용과 영향을 정리해 봅니다. 1. 2026년 9월 8일, 메타는 AI모델 Muse Spark를 활용한 개인 AI 에이전트 앱 Muse를 출시함. 2. 자동차로 보면, Muse Sp"
     }
   ]
 }
