@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-08T02:16:28.026918Z",
+  "updated": "2026-10-09T02:34:01.333827Z",
   "items": [
+    {
+      "title": "30년물 미국국채 입찰결과도 뜯어보자",
+      "link": "https://blog.naver.com/ranto28/224435867065?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 09 Oct 2026 07:20:00 +0900",
+      "description": "한국시간 2026년 10월 9일 새벽2시, 미국국채 30년물 입찰이 있었다. 입찰결과를 해석해 본다. 이번에 나온 물량은 30년이 아니라 29년 10개월짜리 국채다. 8월에 처음 발행한 30년물을 같은 조건으로 더 "
+    },
+    {
+      "title": "쿠팡 및 쿠팡이츠 에러, 서버 터진듯",
+      "link": "https://blog.naver.com/ranto28/224435833096?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 09 Oct 2026 01:41:30 +0900",
+      "description": "쿠팡 서버가 터진 것 같음. 쿠팡만 터진게 아니라 쿠팡이츠도 같이 터짐. 쿠팡과 쿠팡이츠가 동시에 터졌다는 것은 공통 로그인(인증) 시스템 장애가 원인으로 생각됨. 쿠팡과 쿠팡이츠는 같은 쿠팡 계정으로 로그인을 함."
+    },
+    {
+      "title": "농지조사 근황 A/S",
+      "link": "https://blog.naver.com/ranto28/224435147266?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 09 Oct 2026 00:10:00 +0900",
+      "description": "일이 커질 것 같은 농지조사 근황 A/S : 네이버 블로그 사람들의 관심이 별로 없던 9월초, “일이 커질 것 같은 농지조사 근황“이라는 글을 썼다. 일이 커질 것 같은 느낌 그대로 꽤 큰 이슈가 되었다. 당시 글의"
+    },
     {
       "title": "오늘 새벽 진행된 미국국채 10년물 입찰결과를 뜯어보자.",
       "link": "https://blog.naver.com/ranto28/224434786803?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224433750784?fromRss=true&trackingCode=rss",
       "pubDate": "Thu, 08 Oct 2026 00:10:00 +0900",
       "description": "조금 머리아픈 내용입니다. 미국 국채의 7%정도를 헤지펀드들이 가지고 있다는 분석이 있음. 2. 헤지펀드들이 미국 국채를 매수하는 이유는 베이시스 트레이드(차익거래)가 가장 큰 이유임. 3. 사과 도매상이 시장에서 "
-    },
-    {
-      "title": "세계를 방황하고 있는 일본자금 근황",
-      "link": "https://blog.naver.com/ranto28/224433577964?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 07 Oct 2026 11:00:00 +0900",
-      "description": "최근 변화가 있어서 정리해 봅니다. 일본국채는 오랫동안 금리가 0%근처였음. 2. 생보사나 연기금처럼 고객에게 약속한 보험금이나 연금을 줘야하는 기관들은 제로금리의 일본 채권으로는 답이 나오지 않았음. 3. 수십년간"
-    },
-    {
-      "title": "SK가 공시한 9,440억원 블록딜의 비밀 (feat SK하이닉스)",
-      "link": "https://blog.naver.com/ranto28/224433051682?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 07 Oct 2026 00:10:00 +0900",
-      "description": "가벼운 내용입니다. 2026년 10월 2일, SK의 공시 하나가 나왔음. (1) 거래목적 (2) 거래수량 및 거래금액 2. 최대주주 최태원 회장 보유 주식 165만3924주(2.3%), 9440억원어치를 11월 2일"
-    },
-    {
-      "title": "주절주절...의전썰",
-      "link": "https://blog.naver.com/ranto28/224432463581?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 06 Oct 2026 11:00:00 +0900",
-      "description": "의전 이라는 주제로 이것저것 주절주절 해봅니다. 김정은 vs 푸틴 2025년 9월 3일, 중국 전승절 행사에서 김정은과 푸틴이 정상회담을 했다. 둘은 같은 차를 타고오는등 화기애애한 모습을 보여줬지만, 회담장의 분위"
     }
   ]
 }
