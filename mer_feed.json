@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-15T00:53:04.361782Z",
+  "updated": "2026-10-16T00:45:29.565143Z",
   "items": [
+    {
+      "title": "지금 우리 국장은? (feat CPI에 이어서 PPI도 뜯어보자)",
+      "link": "https://blog.naver.com/ranto28/224443203845?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 16 Oct 2026 07:10:00 +0900",
+      "description": "9월 CPI를 설명하는 글에서 10월 15일에 발표하는 PPI를 지켜볼 필요가 있다고 이야기 했다. 9월 CPI가 발표되었다. 결과를 뜯어보자 : 네이버 블로그 PPI가 나왔는데, CPI보다 더 크게 터졌다. CPI"
+    },
+    {
+      "title": "스페이스X의 도전은 성공할수 있을까? (feat 휴대폰 시장 진출)",
+      "link": "https://blog.naver.com/ranto28/224441382513?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 16 Oct 2026 00:10:00 +0900",
+      "description": "새로운 동향이 나와서 정리해 봅니다. 1. 2026년 10월 8일, 일론 머스크의 스페이스X가 800MHz 주파수를 80억달러에 사기로 함. 2. 일론 머스크는 이것을 '미국 전역에서 휴대폰이 다 터지게 하는데 필요"
+    },
+    {
+      "title": "지금 우리 국장은? (feat 코어위브, 삼성전자,SK하이닉스)",
+      "link": "https://blog.naver.com/ranto28/224442390068?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 15 Oct 2026 11:44:43 +0900",
+      "description": "오전부터 국장이 크게 하락하고 있다. 삼성전자는 7%, SK하이닉스는 10%이상 내리고 있고, 외국인은 오전에만 2조원이상을 순매도를 하는 상황이다. 시작은 CPI 였던 것 같다. CPI에 대한 자세한 설명은 기존글"
+    },
     {
       "title": "꿈의 암 치료제가 모더나에서 터졌다는데 어떤걸까? A/S",
       "link": "https://blog.naver.com/ranto28/224442142358?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224441926403?fromRss=true&trackingCode=rss",
       "pubDate": "Thu, 15 Oct 2026 00:08:49 +0900",
       "description": "CPI 발표가 예상과 달라서 상황을 퀵하게 정리해 봅니다. 1. 한국시간 2026년 10월 14일 오후 9시 30분, 미국 9월 소비자물가(CPI)가 발표됨. 2. 결론을 먼저 말하면, CPI가 예상한 만큼 높게 나"
-    },
-    {
-      "title": "지금 우리 국장은? (feat 국민연금, 자사주, 홍라희 이재용 증여)",
-      "link": "https://blog.naver.com/ranto28/224440926200?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 14 Oct 2026 07:10:00 +0900",
-      "description": "국장 돌아가는 상황을 주절주절합니다. 1. 국장 수급현황 직전 3개월을 보면, 외국인이 41조원을 팔았고, 개인도 12조원을 팔았다. 삼성전자와 SK하이닉스가 자사주 매입을 50조원까지 하면서, 버틴 시장이었다. 국"
-    },
-    {
-      "title": "금값이 왜 비실비실 할까? 변수는?",
-      "link": "https://blog.naver.com/ranto28/224439764329?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 14 Oct 2026 00:10:00 +0900",
-      "description": "금값이 내리고 있어서, 상황을 정리해 봅니다. 1. 국제금값은 2026년 1월말에 피크를 치고, 하락추세를 보이고 있음. 2. 금값이 비실비실하는 이유를 수급과 금리로 살펴보겠음. 3. 수요공급중 공급은 범인이 아님"
-    },
-    {
-      "title": "중국 CXMT가 발표한 D램 신기술이 반도체주를 흔드는 이유?",
-      "link": "https://blog.naver.com/ranto28/224439695894?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 13 Oct 2026 07:01:10 +0900",
-      "description": "CXMT 신기술에 반도체주가 영향을 받는다고 해서, 상황을 정리해 봅니다. 1. 2026년 10월 10일, CXMT(창신메모리)의 차오칸위 총재가 ‘4F VSG(수직 포위 게이트)’라는 새로운 D램 구조를 공개함. "
     }
   ]
 }
