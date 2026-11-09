@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-08T01:50:11.856772Z",
+  "updated": "2026-11-09T01:58:26.541574Z",
   "items": [
+    {
+      "title": "이번주에 봐야할 한가지가 있다면?",
+      "link": "https://blog.naver.com/ranto28/224469695213?fromRss=true&trackingCode=rss",
+      "pubDate": "Mon, 09 Nov 2026 07:28:01 +0900",
+      "description": "금요일 필라델피아 반도체 지수가 4.21%오르면서 반등에 성공했다. 국장에는 다행스러운 일이다. 월요일은 잘 넘어가더라도, 수요일이 남아있다. 수요일 오전 6시 10분에 코어위브가 실적발표를 하고, 7시에 컨콜을 하"
+    },
+    {
+      "title": "TSMC가 D램을 만든다고?",
+      "link": "https://blog.naver.com/ranto28/224468565262?fromRss=true&trackingCode=rss",
+      "pubDate": "Mon, 09 Nov 2026 00:10:00 +0900",
+      "description": "엔비디아가 TSMC에 \"메모리도 만들어 달라\"고 요청했고, \"TSMC가 3D D램 생산을 검토하기 시작했다\"는 보도가 나와 정리해 봅니다. 1. TSMC가 메모리를 하겠다고 나선것이 처음은 아님. 2. 1994년 1"
+    },
+    {
+      "title": "젠슨 황 곁의 중국 여성, 스파이 의혹의 실체는?",
+      "link": "https://blog.naver.com/ranto28/224469102651?fromRss=true&trackingCode=rss",
+      "pubDate": "Sun, 08 Nov 2026 13:22:00 +0900",
+      "description": "단순한 개인의 스캔들이 아닌것 같아서 정리해 봅니다. 1. 11월 7일 FT가 미국 정부의 내부메모 내용을 보도함. 2. 메모에는 엔비디아 젠슨 황이 중국 국가안전부 스파이로 의심받는 여성 기업인 앨리스 황과 연인 "
+    },
     {
       "title": "이번에는 네타냐후가 물러날까?",
       "link": "https://blog.naver.com/ranto28/224468106611?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224468500454?fromRss=true&trackingCode=rss",
       "pubDate": "Sun, 08 Nov 2026 00:10:00 +0900",
       "description": "주말이라 가벼운 음식이야기입니다. 1. 방어는 봄부터 여름까지 먹이를 찾아 북쪽으로 가고, 가을에서 겨울에는 월동을 위해 남쪽으로 이동하는 물고기임. 2. 겨울에 제주 마라도까지 내려올 때, 월동을 위한 지방이 많이"
-    },
-    {
-      "title": "재미있는 기사 뜯어보기(feat 영국인들, 한국증시 100조원 팔았다)",
-      "link": "https://blog.naver.com/ranto28/224467966071?fromRss=true&trackingCode=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:30:00 +0900",
-      "description": "오늘 매일경제에서 재미있는 기사를 하나 봤다. 영국인들, 9달동안 한국 증시 100조 팔았다…“세금 아끼려고” [오늘 나온 보고서] - 매일경제 영국인들이 9달동안 한국 증시 100조를 팔았다는 기사인데, 매도 이유"
-    },
-    {
-      "title": "12년간 문을 닫았던 단골집이 다시 오픈 했는데...",
-      "link": "https://blog.naver.com/ranto28/224465957095?fromRss=true&trackingCode=rss",
-      "pubDate": "Sat, 07 Nov 2026 00:10:00 +0900",
-      "description": "증시를 불태워 버린 불금이라, 음식 이야기나 해봅니다. 이정섭이라는 배우가 있다. 그를 기억하는 사람은 특유의 여성스러운 말투를 쓰는 아저씨 캐릭터가 떠오를 것이다. 나는 그를 종가라는 한식당의 주인으로 기억한다. "
-    },
-    {
-      "title": "오늘 미장에 무슨 일이 일어났나?",
-      "link": "https://blog.naver.com/ranto28/224466693885?fromRss=true&trackingCode=rss",
-      "pubDate": "Fri, 06 Nov 2026 04:20:27 +0900",
-      "description": "자다가 잠깐 깨서 미장을 보니, 잠이 깨네요. 현재 상황을 잠결에 러프하게 정리해 봅니다. 1. 미장이 심하게 빠지고 있음. 2. 특히 필라델피아 반도체는 11%까지 하락하며, 전체 미장을 흔들고 있음. 3. 미장은"
     }
   ]
 }
