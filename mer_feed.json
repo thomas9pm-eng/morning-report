@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-12T03:22:04.250040Z",
+  "updated": "2026-11-13T02:54:35.416051Z",
   "items": [
+    {
+      "title": "오늘 우리 국장은? (feat 젠슨 황 사임과 네비우스 실적발표)",
+      "link": "https://blog.naver.com/ranto28/224475142363?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 13 Nov 2026 07:10:00 +0900",
+      "description": "국장에 영향을 줄만한 내용이 있어서 정리해 봅니다. 1. 네오클라우드 3대장중 하나인 네비우스의 실적발표와 엔비디아 젠슨 황의 사임이 있었음. 2. 네오클라우드는 AI용 GPU를 전문적으로 빌려주는 클라우드 회사임."
+    },
+    {
+      "title": "미국 가정용 전기요금을 올린 범인이 데이터센터가 맞나?",
+      "link": "https://blog.naver.com/ranto28/224474403678?fromRss=true&trackingCode=rss",
+      "pubDate": "Fri, 13 Nov 2026 00:10:00 +0900",
+      "description": "1. 이번 미국 중간선거에서 큰 쟁점이 된 것이 전기요금 이었음. 2. \"AI가 전기를 먹어치우니 우리 집 전기요금이 오른다\"는 말이 미국에서 상식처럼 퍼진 것임. 3. \"데이터센터가 오히려 전기요금을 낮췄다\"는 반"
+    },
+    {
+      "title": "엔비디아의 젠슨 황, 이번에는 사내불륜인가....",
+      "link": "https://blog.naver.com/ranto28/224474203548?fromRss=true&trackingCode=rss",
+      "pubDate": "Thu, 12 Nov 2026 12:55:50 +0900",
+      "description": "엔비디아의 의사결정 구조에 대해서 다음과 같이 이야기 했었다. 엔비디아는 사업부와 디비전이 없다. 재무,영업,운영,법무등을 젠슨 황이 직접 관할한다. 삼성전자를 예로 들면 DS(반도체)와 DX(완제품) 부문으로 나뉘"
+    },
     {
       "title": "이번주에 봐야할 한가지가 있다면? (feat 코어위브 A/S)",
       "link": "https://blog.naver.com/ranto28/224473677672?fromRss=true&trackingCode=rss",
@@ -12,24 +30,6 @@
       "link": "https://blog.naver.com/ranto28/224472481817?fromRss=true&trackingCode=rss",
       "pubDate": "Thu, 12 Nov 2026 00:10:00 +0900",
       "description": "컬퍼 리서치의 엔비디아와 젠슨 황 관련 공매도 보고서 내용이 흥미로워서 정리해 봅니다. 공매도 보고서 원본은 글 하단에 첨부했습니다. 1. 미국 공매도 리서치 회사인 컬퍼 리서치는 2026년 5월 13일 40쪽짜리 "
-    },
-    {
-      "title": "이번주에 봐야할 한가지가 있다면? A/S (feat 코어위브)",
-      "link": "https://blog.naver.com/ranto28/224472527236?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 11 Nov 2026 08:05:30 +0900",
-      "description": "이번주에 봐야할 한가지가 있다면? : 네이버 블로그 위 글의 한줄 코멘트는 다음과 같았습니다. 한줄 코멘트. 코어위브 실적에서 매출은 거의 정해져 있다. 수요일 아침에 볼 것은 \"투자를 계속하는지, 돈은 잘 구해지는"
-    },
-    {
-      "title": "바이낸스 사태가 무엇일까?",
-      "link": "https://blog.naver.com/ranto28/224471775778?fromRss=true&trackingCode=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:10:00 +0900",
-      "description": "어느정도 사태가 마무리된 것 같아서, 경과를 정리해 봅니다. 1. 북한의 대남 공작은 당과 군에 흩어져 있었음. 2. 무장침투와 테러는 군 소속인 정찰국, 간첩은 노동당 작전부, 해외정보 수집 및 포섭등은 노동당 대"
-    },
-    {
-      "title": "주절주절....젠슨 황이 없어도 엔비디아가 돌아갈까?",
-      "link": "https://blog.naver.com/ranto28/224471158038?fromRss=true&trackingCode=rss",
-      "pubDate": "Tue, 10 Nov 2026 07:40:36 +0900",
-      "description": "과거 승진누락과 골프등을 주제로 직장생활썰을 적은 적이 있고(글 하단 ps 참고), 내용중에는 Top 5 risk 관리가 있었다. \"당시에 매달 하는 일이 있었다. 내가 맡고 있는 업무 중에서 Top 5 risk를 "
     }
   ]
 }
